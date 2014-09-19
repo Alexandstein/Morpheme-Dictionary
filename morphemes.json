@@ -1126,7 +1126,7 @@
         "morpheme"		: "cep",
         "allomorphs"	: ["cap", "cip", "cup"],
 		"origin"		: "Latin",
-		"gloss" 		: ["take", "contrain"],
+		"gloss" 		: ["take"],
 		"isInflectional": false,
 		"isPrefix"		: false,
 		"isSuffix"		: false,

@@ -22,10 +22,6 @@ function morphemesInit(){
 			$('#loading-box').hide();
 		});
 			
-		self.test = function(value){
-			console.log(value.id);
-		}
-			
 		//Filter out morphemes by morpheme, or allomorph
 		self.morphemeFilter = function(value){
 			//Check for empty string
