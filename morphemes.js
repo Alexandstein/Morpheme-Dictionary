@@ -11,7 +11,7 @@ function morphemesInit(){
 		self.morphemes = [];
 		self.searchVal = '';
 		
-		$http.get('/resources/data/morphemes/morphemesTest.json').success(function(data){
+		$http.get('/resources/data/morphemes/morphemes.json').success(function(data){
 			for(i = 0; i < data.length; i++){
 				data[i].id = i;
 			}
