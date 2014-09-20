@@ -173,7 +173,7 @@
     {
 		"id"			: "",
         "morpheme"		: "and",
-        "allomorphs"	: ["end"],
+        "allomorphs"	: ["end", "nd"],
 		"origin"		: "Latin",
 		"gloss" 		: ["Noun"],
 		"isPrefix"		: false,
@@ -2962,6 +2962,4668 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hagi",
+        "allomorphs"	: [],
+		"gloss" 		: ["holy"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hal",
+        "allomorphs"	: [],
+		"gloss" 		: ["salt"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hecaton",
+        "allomorphs"	: [],
+		"gloss" 		: ["hundren"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hedon",
+        "allomorphs"	: [],
+		"gloss" 		: ["pleasure"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hedr",
+        "allomorphs"	: [],
+		"gloss" 		: ["seat", "face of a solid"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "heli",
+        "allomorphs"	: [],
+		"gloss" 		: ["sun"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "helic",
+        "allomorphs"	: [],
+		"gloss" 		: ["spiral"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "helminth",
+        "allomorphs"	: [],
+		"gloss" 		: ["worm"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hemer",
+        "allomorphs"	: [],
+		"gloss" 		: ["day"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "harmi",
+        "allomorphs"	: [],
+		"gloss" 		: ["half"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hepat",
+        "allomorphs"	: [],
+		"gloss" 		: ["liver"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hepta",
+        "allomorphs"	: [],
+		"gloss" 		: ["seven"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "her",
+        "allomorphs"	: ["hes"],
+		"gloss" 		: ["to stick", "hold back"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "herp",
+        "allomorphs"	: ["herpet"],
+		"gloss" 		: ["to creep", "reptile"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hetero",
+        "allomorphs"	: [],
+		"gloss" 		: ["other", "different"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hexa",
+        "allomorphs"	: [],
+		"gloss" 		: ["six"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hier",
+        "allomorphs"	: [],
+		"gloss" 		: ["holy"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hipp",
+        "allomorphs"	: [],
+		"gloss" 		: ["horse"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hist",
+        "allomorphs"	: [],
+		"gloss" 		: ["body tissue"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hod",
+        "allomorphs"	: ["od"],
+		"gloss" 		: ["path"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hol",
+        "allomorphs"	: [],
+		"gloss" 		: ["whole"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hom",
+        "allomorphs"	: [],
+		"gloss" 		: ["human"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "homeo",
+        "allomorphs"	: [],
+		"gloss" 		: ["similar"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "homo",
+        "allomorphs"	: [],
+		"gloss" 		: ["same"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hor",
+        "allomorphs"	: [],
+		"gloss" 		: ["hour"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hum",
+        "allomorphs"	: [],
+		"gloss" 		: ["earth", "low"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hydr",
+        "allomorphs"	: ["hydrat"],
+		"gloss" 		: ["water"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hyper",
+        "allomorphs"	: [],
+		"gloss" 		: ["over", "above"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hypn",
+        "allomorphs"	: [],
+		"gloss" 		: ["sleep", "trance"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hypo",
+        "allomorphs"	: [],
+		"gloss" 		: ["under", "below", "partial"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hyps",
+        "allomorphs"	: [],
+		"gloss" 		: ["height"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "hyster",
+        "allomorphs"	: [],
+		"gloss" 		: ["womb"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "i",
+        "allomorphs"	: [],
+		"gloss" 		: ["go"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "i",
+        "allomorphs"	: [],
+		"gloss" 		: ["Plural"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: "Second declension plural."
+    },{
+		"id"			: "",
+        "morpheme"		: "i",
+        "allomorphs"	: [],
+		"gloss" 		: ["Filler"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: true,
+		"notes"			: "Empty morph"
+    },{
+		"id"			: "",
+        "morpheme"		: "ia",
+        "allomorphs"	: [],
+		"gloss" 		: ["land", "state", "medical condition"],
+		"origin"		: "Latin, Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ial",
+        "allomorphs"	: ["al"],
+		"gloss" 		: ["Adj"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ian",
+        "allomorphs"	: ["an"],
+		"gloss" 		: ["Adj"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "iatr",
+        "allomorphs"	: [],
+		"gloss" 		: ["heal"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ible",
+        "allomorphs"	: ["able", "ble"],
+		"gloss" 		: ["Adj"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ic",
+        "allomorphs"	: [],
+		"gloss" 		: ["Adj", "Noun"],
+		"origin"		: "Latin, Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ichthy",
+        "allomorphs"	: [],
+		"gloss" 		: ["fish"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "icl",
+        "allomorphs"	: ["icul"],
+		"gloss" 		: ["little"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "icon",
+        "allomorphs"	: [],
+		"gloss" 		: ["image"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "icosa",
+        "allomorphs"	: [],
+		"gloss" 		: ["twenty"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "id",
+        "allomorphs"	: [],
+		"gloss" 		: ["Adj"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "idi",
+        "allomorphs"	: [],
+		"gloss" 		: ["personal"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ign",
+        "allomorphs"	: [],
+		"gloss" 		: ["fire"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "il",
+        "allomorphs"	: [],
+		"gloss" 		: ["Adj"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ill",
+        "allomorphs"	: [],
+		"gloss" 		: ["little"],
+		"origin"		: "",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "in",
+        "allomorphs"	: [],
+		"gloss" 		: ["not"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "in",
+        "allomorphs"	: [],
+		"gloss" 		: ["in", "into"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "in",
+        "allomorphs"	: [],
+		"gloss" 		: ["Adj"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "infra",
+        "allomorphs"	: [],
+		"gloss" 		: ["below", "after"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "inguin",
+        "allomorphs"	: [],
+		"gloss" 		: ["groin"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "insul",
+        "allomorphs"	: [],
+		"gloss" 		: ["island"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "inter",
+        "allomorphs"	: [],
+		"gloss" 		: ["between", "among"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "intra",
+        "allomorphs"	: [],
+		"gloss" 		: ["within"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "intro",
+        "allomorphs"	: [],
+		"gloss" 		: ["inwads"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ise",
+        "allomorphs"	: [],
+		"gloss" 		: ["Verb"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ism",
+        "allomorphs"	: [],
+		"gloss" 		: ["Noun"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "iso",
+        "allomorphs"	: [],
+		"gloss" 		: ["equal"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ist",
+        "allomorphs"	: [],
+		"gloss" 		: ["Noun"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "itis",
+        "allomorphs"	: [],
+		"gloss" 		: ["inflammation"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ity",
+        "allomorphs"	: [],
+		"gloss" 		: ["Noun"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ium",
+        "allomorphs"	: ["um"],
+		"gloss" 		: ["thing", "Noun"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: "Singular"
+    },{
+		"id"			: "",
+        "morpheme"		: "ive",
+        "allomorphs"	: ["tive"],
+		"gloss" 		: ["Adj", "Noun"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ix",
+        "allomorphs"	: ["trix"],
+		"gloss" 		: ["woman"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ize",
+        "allomorphs"	: [],
+		"gloss" 		: ["Verb"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "jac",
+        "allomorphs"	: ["jec"],
+		"gloss" 		: ["throw", "lay"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "jug",
+        "allomorphs"	: ["jung", "junc"],
+		"gloss" 		: ["join"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "jun",
+        "allomorphs"	: ["juven"],
+		"gloss" 		: ["young"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "jus",
+        "allomorphs"	: ["jur"],
+		"gloss" 		: ["law", "judge"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "kilo",
+        "allomorphs"	: [],
+		"gloss" 		: ["thousand"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "l",
+        "allomorphs"	: [],
+		"gloss" 		: ["little"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: "Diminuitive"
+    },{
+		"id"			: "",
+        "morpheme"		: "lab",
+        "allomorphs"	: [],
+		"gloss" 		: ["lip"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lachrym",
+        "allomorphs"	: ["lacrim"],
+		"gloss" 		: ["tear"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: "Tear as in tear ducts."
+    },{
+		"id"			: "",
+        "morpheme"		: "lact",
+        "allomorphs"	: [],
+		"gloss" 		: ["milk"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lagni",
+        "allomorphs"	: [],
+		"gloss" 		: ["lust"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lal",
+        "allomorphs"	: [],
+		"gloss" 		: ["babble", "talk"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lamin",
+        "allomorphs"	: [],
+		"gloss" 		: ["layer", "blade"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lapar",
+        "allomorphs"	: [],
+		"gloss" 		: ["abdominal wall"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lapid",
+        "allomorphs"	: [],
+		"gloss" 		: ["stone"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "laryng",
+        "allomorphs"	: [],
+		"gloss" 		: ["voice box"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lat",
+        "allomorphs"	: [],
+		"gloss" 		: ["carry"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lat",
+        "allomorphs"	: [],
+		"gloss" 		: ["wide", "broad"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "later",
+        "allomorphs"	: [],
+		"gloss" 		: ["side"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "latri",
+        "allomorphs"	: [],
+		"gloss" 		: ["worship"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lav",
+        "allomorphs"	: [],
+		"gloss" 		: ["wash"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "leg",
+        "allomorphs"	: [],
+		"gloss" 		: ["law", "deputize"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "leg",
+        "allomorphs"	: ["lex", "log"],
+		"gloss" 		: ["speak", "study"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "leg",
+        "allomorphs"	: ["lig"],
+		"gloss" 		: ["gather", "read"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "len",
+        "allomorphs"	: [],
+		"gloss" 		: ["soft", "gentle"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lent",
+        "allomorphs"	: [],
+		"gloss" 		: ["Adj"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "leo",
+        "allomorphs"	: ["leon"],
+		"gloss" 		: ["lion"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lep",
+        "allomorphs"	: ["lepr"],
+		"gloss" 		: ["scaly"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "leuc",
+        "allomorphs"	: ["leuk"],
+		"gloss" 		: ["white", "clear"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lev",
+        "allomorphs"	: [],
+		"gloss" 		: ["light", "rise"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "liber",
+        "allomorphs"	: [],
+		"gloss" 		: ["free"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "libr",
+        "allomorphs"	: [],
+		"gloss" 		: ["book"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lic",
+        "allomorphs"	: [],
+		"gloss" 		: ["permit", "unrestrained"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lic",
+        "allomorphs"	: ["linqu"],
+		"gloss" 		: ["leave"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lig",
+        "allomorphs"	: [],
+		"gloss" 		: ["tie", "bind"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lign",
+        "allomorphs"	: [],
+		"gloss" 		: ["wood"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lim",
+        "allomorphs"	: ["limen", "limin"],
+		"gloss" 		: ["threshold", "border", "shore"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lin",
+        "allomorphs"	: [],
+		"gloss" 		: ["flax"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lingu",
+        "allomorphs"	: [],
+		"gloss" 		: ["tongue"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lip",
+        "allomorphs"	: [],
+		"gloss" 		: ["fat"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "liqu",
+        "allomorphs"	: [],
+		"gloss" 		: ["fluid"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lit",
+        "allomorphs"	: ["lith"],
+		"gloss" 		: ["stone"],
+		"origin"		: "Latin, Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "liter",
+        "allomorphs"	: [],
+		"gloss" 		: ["letter"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "loc",
+        "allomorphs"	: [],
+		"gloss" 		: ["place"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "locu",
+        "allomorphs"	: ["loqu"],
+		"gloss" 		: ["speak"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lu",
+        "allomorphs"	: ["lv"],
+		"gloss" 		: ["dissolve"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "luc",
+        "allomorphs"	: ["lumen", "lumin"],
+		"gloss" 		: ["light"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lud",
+        "allomorphs"	: [],
+		"gloss" 		: ["play"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lumb",
+        "allomorphs"	: [],
+		"gloss" 		: ["lower back", "loins"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "lun",
+        "allomorphs"	: [],
+		"gloss" 		: ["moon", "madness"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ly",
+        "allomorphs"	: [],
+		"gloss" 		: ["loosen"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ma",
+        "allomorphs"	: [],
+		"gloss" 		: ["Noun", "thing"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: "Singular"
+    },{
+		"id"			: "",
+        "morpheme"		: "mac",
+        "allomorphs"	: [],
+		"gloss" 		: ["spot", "stain"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mach",
+        "allomorphs"	: [],
+		"gloss" 		: ["battle"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "macr",
+        "allomorphs"	: [],
+		"gloss" 		: ["large"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "magn",
+        "allomorphs"	: [],
+		"gloss" 		: ["great", "large"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mal",
+        "allomorphs"	: ["male"],
+		"gloss" 		: ["bad"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mamm",
+        "allomorphs"	: [],
+		"gloss" 		: ["breast"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "man",
+        "allomorphs"	: [],
+		"gloss" 		: ["remain"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "man",
+        "allomorphs"	: [],
+		"gloss" 		: ["hand", "handle"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mand",
+        "allomorphs"	: [],
+		"gloss" 		: ["order"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: "man + da"
+    },{
+		"id"			: "",
+        "morpheme"		: "mani",
+        "allomorphs"	: [],
+		"gloss" 		: ["intense desire"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mant",
+        "allomorphs"	: ["manc"],
+		"gloss" 		: ["prophesy"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mar",
+        "allomorphs"	: [],
+		"gloss" 		: ["sea"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mascul",
+        "allomorphs"	: [],
+		"gloss" 		: ["male"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mast",
+        "allomorphs"	: [],
+		"gloss" 		: ["breast"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "math",
+        "allomorphs"	: [],
+		"gloss" 		: ["learn", "study"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "matr",
+        "allomorphs"	: [],
+		"gloss" 		: ["mother"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "maxill",
+        "allomorphs"	: [],
+		"gloss" 		: ["upper jaw"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "med",
+        "allomorphs"	: [],
+		"gloss" 		: ["middle"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mega",
+        "allomorphs"	: ["megal"],
+		"gloss" 		: ["great", "million"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mel",
+        "allomorphs"	: [],
+		"gloss" 		: ["honey"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mel",
+        "allomorphs"	: ["melan"],
+		"gloss" 		: ["black"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mell",
+        "allomorphs"	: [],
+		"gloss" 		: ["honey"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "memor",
+        "allomorphs"	: [],
+		"gloss" 		: ["remember"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "men",
+        "allomorphs"	: ["min"],
+		"gloss" 		: ["project", "threaten"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: "Project as in 'to project'."
+    },{
+		"id"			: "",
+        "morpheme"		: "men",
+        "allomorphs"	: ["mon"],
+		"gloss" 		: ["think", "mind"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mens",
+        "allomorphs"	: [],
+		"gloss" 		: ["moon", "month"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ment",
+        "allomorphs"	: [],
+		"gloss" 		: ["Noun"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mer",
+        "allomorphs"	: [],
+		"gloss" 		: ["share"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mer",
+        "allomorphs"	: [],
+		"gloss" 		: ["part"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "merg",
+        "allomorphs"	: ["mers"],
+		"gloss" 		: ["sink", "dip"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "meso",
+        "allomorphs"	: [],
+		"gloss" 		: ["middle"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "meta",
+        "allomorphs"	: [],
+		"gloss" 		: ["after", "beyond"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: "Now used particularly in context of abstraction or self-reference."
+    },{
+		"id"			: "",
+        "morpheme"		: "metr",
+        "allomorphs"	: [],
+		"gloss" 		: ["mother", "uterus"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "micr",
+        "allomorphs"	: [],
+		"gloss" 		: ["small"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mille",
+        "allomorphs"	: [],
+		"gloss" 		: ["thousand"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "milli",
+        "allomorphs"	: [],
+		"gloss" 		: ["thousandth"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: "Official SI prefix for thousandth."
+    },{
+		"id"			: "",
+        "morpheme"		: "mim",
+        "allomorphs"	: [],
+		"gloss" 		: ["copy"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "min",
+        "allomorphs"	: [],
+		"gloss" 		: ["little"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mis",
+        "allomorphs"	: [],
+		"gloss" 		: ["hate"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "misc",
+        "allomorphs"	: ["mix"],
+		"gloss" 		: ["mix"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mitt",
+        "allomorphs"	: ["miss"],
+		"gloss" 		: ["send"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mne",
+        "allomorphs"	: [],
+		"gloss" 		: ["remember"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mo",
+        "allomorphs"	: [],
+		"gloss" 		: ["move"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mod",
+        "allomorphs"	: [],
+		"gloss" 		: ["manner", "moderate"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mon",
+        "allomorphs"	: [],
+		"gloss" 		: ["one"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mony",
+        "allomorphs"	: [],
+		"gloss" 		: ["Noun"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "morb",
+        "allomorphs"	: [],
+		"gloss" 		: ["disease"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "morph",
+        "allomorphs"	: [],
+		"gloss" 		: ["shape", "form"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mov",
+        "allomorphs"	: ["mo"],
+		"gloss" 		: ["move"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "muc",
+        "allomorphs"	: [],
+		"gloss" 		: ["stick"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mult",
+        "allomorphs"	: [],
+		"gloss" 		: ["many"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mun",
+        "allomorphs"	: [],
+		"gloss" 		: ["public service", "gift"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mus",
+        "allomorphs"	: ["mur"],
+		"gloss" 		: ["mouse", "muscle"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "mut",
+        "allomorphs"	: [],
+		"gloss" 		: ["change", "exchange"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "my",
+        "allomorphs"	: [],
+		"gloss" 		: ["muscle"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "myc",
+        "allomorphs"	: [],
+		"gloss" 		: ["fungus"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "myel",
+        "allomorphs"	: [],
+		"gloss" 		: ["spinal cord", "bone marrow"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "myri",
+        "allomorphs"	: [],
+		"gloss" 		: ["countless", "ten thousand"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "myrmec",
+        "allomorphs"	: [],
+		"gloss" 		: ["ant"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nan",
+        "allomorphs"	: [],
+		"gloss" 		: ["dwarf"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nano",
+        "allomorphs"	: [],
+		"gloss" 		: ["billionth"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: "Official SI prefix for billionth."
+    },{
+		"id"			: "",
+        "morpheme"		: "nar",
+        "allomorphs"	: ["nas"],
+		"gloss" 		: ["nose"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nat",
+        "allomorphs"	: [],
+		"gloss" 		: ["swim"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nau",
+        "allomorphs"	: [],
+		"gloss" 		: ["boat"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nav",
+        "allomorphs"	: [],
+		"gloss" 		: ["boat"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ne",
+        "allomorphs"	: [],
+		"gloss" 		: ["new", "recent"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nec",
+        "allomorphs"	: ["noc", "nic", "nox"],
+		"gloss" 		: ["harm"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nec",
+        "allomorphs"	: ["necr"],
+		"gloss" 		: ["dead", "death", "die"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nect",
+        "allomorphs"	: ["nex"],
+		"gloss" 		: ["tie"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nephr",
+        "allomorphs"	: [],
+		"gloss" 		: ["kidney"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "neur",
+        "allomorphs"	: [],
+		"gloss" 		: ["nerve"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nigr",
+        "allomorphs"	: [],
+		"gloss" 		: ["black"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nihil",
+        "allomorphs"	: ["nil"],
+		"gloss" 		: ["nothing"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "noct",
+        "allomorphs"	: [],
+		"gloss" 		: ["night"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nod",
+        "allomorphs"	: [],
+		"gloss" 		: ["knot"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nom",
+        "allomorphs"	: [],
+		"gloss" 		: ["law", "system"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nomen",
+        "allomorphs"	: ["nomin"],
+		"gloss" 		: ["name"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "non",
+        "allomorphs"	: [],
+		"gloss" 		: ["ninth"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nov",
+        "allomorphs"	: [],
+		"gloss" 		: ["new"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "novem",
+        "allomorphs"	: [],
+		"gloss" 		: ["nine"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nomen",
+        "allomorphs"	: [],
+		"gloss" 		: ["nine (each)"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nt",
+        "allomorphs"	: [],
+		"gloss" 		: ["Adj", "Noun"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: "Present Participle"
+    },{
+		"id"			: "",
+        "morpheme"		: "nub",
+        "allomorphs"	: [],
+		"gloss" 		: ["marry"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nuc",
+        "allomorphs"	: [],
+		"gloss" 		: ["nut"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "null",
+        "allomorphs"	: [],
+		"gloss" 		: ["nothing"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nunci",
+        "allomorphs"	: [],
+		"gloss" 		: ["message"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nutri",
+        "allomorphs"	: [],
+		"gloss" 		: ["feed"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "nyct",
+        "allomorphs"	: [],
+		"gloss" 		: ["night"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "o",
+        "allomorphs"	: [],
+		"gloss" 		: ["Filler"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: true,
+		"notes"			: "Empty morph"
+    },{
+		"id"			: "",
+        "morpheme"		: "ob",
+        "allomorphs"	: [],
+		"gloss" 		: ["toward", "against"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "octa",
+        "allomorphs"	: [],
+		"gloss" 		: ["eight"],
+		"origin"		: "eight",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "octav",
+        "allomorphs"	: [],
+		"gloss" 		: ["eighth"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "octo",
+        "allomorphs"	: [],
+		"gloss" 		: ["eight"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "octon",
+        "allomorphs"	: [],
+		"gloss" 		: ["eight (each)"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ocul",
+        "allomorphs"	: [],
+		"gloss" 		: ["eye"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "od",
+        "allomorphs"	: [],
+		"gloss" 		: ["song"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "od",
+        "allomorphs"	: ["ol"],
+		"gloss" 		: ["smell"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "odont",
+        "allomorphs"	: [],
+		"gloss" 		: ["tooth"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "odyn",
+        "allomorphs"	: [],
+		"gloss" 		: ["pain"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "oen",
+        "allomorphs"	: ["en"],
+		"gloss" 		: ["wine"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "oid",
+        "allomorphs"	: [],
+		"gloss" 		: ["Adj", "Noun", "resembling"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ol",
+        "allomorphs"	: [],
+		"gloss" 		: ["little"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: "false"
+    },{
+		"id"			: "",
+        "morpheme"		: "ole",
+        "allomorphs"	: [],
+		"gloss" 		: ["oil"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "olig",
+        "allomorphs"	: [],
+		"gloss" 		: ["few"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "oma",
+        "allomorphs"	: [],
+		"gloss" 		: ["tumor", "growth"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "omn",
+        "allomorphs"	: [],
+		"gloss" 		: ["all"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "on",
+        "allomorphs"	: [],
+		"gloss" 		: ["Noun", "thing"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: "Singular"
+    },{
+		"id"			: "",
+        "morpheme"		: "onc",
+        "allomorphs"	: [],
+		"gloss" 		: ["mass", "tumor"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "onom",
+        "allomorphs"	: ["onomat", "onym"],
+		"gloss" 		: ["name"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ont",
+        "allomorphs"	: [],
+		"gloss" 		: ["be"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "oo",
+        "allomorphs"	: [],
+		"gloss" 		: ["egg"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "op",
+        "allomorphs"	: [],
+		"gloss" 		: ["see"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ophthalm",
+        "allomorphs"	: [],
+		"gloss" 		: ["eye"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ophi",
+        "allomorphs"	: ["ophid"],
+		"gloss" 		: ["snake"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "or",
+        "allomorphs"	: [],
+		"gloss" 		: ["speak formally", "pray"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "orb",
+        "allomorphs"	: [],
+		"gloss" 		: ["circle"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "orch",
+        "allomorphs"	: ["orchid"],
+		"gloss" 		: ["orchid", "testicle"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "orn",
+        "allomorphs"	: ["ornith"],
+		"gloss" 		: ["bird"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "orth",
+        "allomorphs"	: [],
+		"gloss" 		: ["correct", "straight"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ory",
+        "allomorphs"	: [],
+		"gloss" 		: ["Adj", "Noun"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "os",
+        "allomorphs"	: [],
+		"gloss" 		: ["Noun"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: "Masculine singular"
+    },{
+		"id"			: "",
+        "morpheme"		: "os",
+        "allomorphs"	: ["or"],
+		"gloss" 		: ["mouth", "opening"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "os",
+        "allomorphs"	: ["oss"],
+		"gloss" 		: ["bone"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ose",
+        "allomorphs"	: ["ous"],
+		"gloss" 		: ["Adj"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "osm",
+        "allomorphs"	: [],
+		"gloss" 		: ["push"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "oste",
+        "allomorphs"	: [],
+		"gloss" 		: ["bone"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ot",
+        "allomorphs"	: [],
+		"gloss" 		: ["ear"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ov",
+        "allomorphs"	: [],
+		"gloss" 		: ["egg"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ox",
+        "allomorphs"	: ["oxy"],
+		"gloss" 		: ["sharp"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pac",
+        "allomorphs"	: [],
+		"gloss" 		: ["agree", "peace"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pachy",
+        "allomorphs"	: [],
+		"gloss" 		: ["thick"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "paed",
+        "allomorphs"	: ["ped"],
+		"gloss" 		: ["child", "teach"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pale",
+        "allomorphs"	: ["palae"],
+		"gloss" 		: ["old"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "palin",
+        "allomorphs"	: [],
+		"gloss" 		: ["again"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pall",
+        "allomorphs"	: [],
+		"gloss" 		: ["pale"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "palp",
+        "allomorphs"	: [],
+		"gloss" 		: ["feel", "touch"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pan",
+        "allomorphs"	: ["pant"],
+		"gloss" 		: ["all"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "par",
+        "allomorphs"	: [],
+		"gloss" 		: ["equal"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "par",
+        "allomorphs"	: [],
+		"gloss" 		: ["give birth to"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "para",
+        "allomorphs"	: [],
+		"gloss" 		: ["besides", "nearly"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "path",
+        "allomorphs"	: [],
+		"gloss" 		: ["feel", "illness"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "patr",
+        "allomorphs"	: [],
+		"gloss" 		: ["father", "country"],
+		"origin"		: "Latin, Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pauc",
+        "allomorphs"	: [],
+		"gloss" 		: ["few"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pecc",
+        "allomorphs"	: [],
+		"gloss" 		: ["sin"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pector",
+        "allomorphs"	: [],
+		"gloss" 		: ["chest"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pecu",
+        "allomorphs"	: [],
+		"gloss" 		: ["wealth", "property"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ped",
+        "allomorphs"	: [],
+		"gloss" 		: ["foot"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pell",
+        "allomorphs"	: ["puls"],
+		"gloss" 		: ["push"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pen",
+        "allomorphs"	: [],
+		"gloss" 		: ["lack", "shortant"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pen",
+        "allomorphs"	: ["paen"],
+		"gloss" 		: ["almost"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pen",
+        "allomorphs"	: ["pun"],
+		"gloss" 		: ["punish"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pend",
+        "allomorphs"	: ["pond"],
+		"gloss" 		: ["hang", "weight"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "penn",
+        "allomorphs"	: ["pinn"],
+		"gloss" 		: ["feather"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "penta",
+        "allomorphs"	: [],
+		"gloss" 		: ["five"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pept",
+        "allomorphs"	: ["peps"],
+		"gloss" 		: ["digest"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: "Digest as in biological digestion."
+    },{
+		"id"			: "",
+        "morpheme"		: "per",
+        "allomorphs"	: [],
+		"gloss" 		: ["though", "thorough"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "peri",
+        "allomorphs"	: [],
+		"gloss" 		: ["around", "near"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pet",
+        "allomorphs"	: [],
+		"gloss" 		: ["seek", "go to"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "petr",
+        "allomorphs"	: [],
+		"gloss" 		: ["rock"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pha",
+        "allomorphs"	: ["phe"],
+		"gloss" 		: ["speak"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "phag",
+        "allomorphs"	: [],
+		"gloss" 		: ["eat"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "phall",
+        "allomorphs"	: [],
+		"gloss" 		: ["penis"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pharyng",
+        "allomorphs"	: [],
+		"gloss" 		: ["throat"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pher",
+        "allomorphs"	: ["phor"],
+		"gloss" 		: ["bear", "carry"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: "Bear as in 'to bear'."
+    },{
+		"id"			: "",
+        "morpheme"		: "phil",
+        "allomorphs"	: [],
+		"gloss" 		: ["liking", "love", "tenency"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "phleb",
+        "allomorphs"	: [],
+		"gloss" 		: ["vein"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "phob",
+        "allomorphs"	: [],
+		"gloss" 		: ["fear"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "phon",
+        "allomorphs"	: [],
+		"gloss" 		: ["sound"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "phot",
+        "allomorphs"	: ["phos"],
+		"gloss" 		: ["light"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "phras",
+        "allomorphs"	: [],
+		"gloss" 		: ["speech"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "phren",
+        "allomorphs"	: [],
+		"gloss" 		: ["diagraphm", "mind"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "phyl",
+        "allomorphs"	: [],
+		"gloss" 		: ["tribe", "class", "race"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "phylac",
+        "allomorphs"	: [],
+		"gloss" 		: ["guard"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "phyll",
+        "allomorphs"	: [],
+		"gloss" 		: ["leaf"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "phys",
+        "allomorphs"	: [],
+		"gloss" 		: ["nature"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "phyt",
+        "allomorphs"	: [],
+		"gloss" 		: ["plant"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pig",
+        "allomorphs"	: ["pic"],
+		"gloss" 		: ["paint"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pil",
+        "allomorphs"	: [],
+		"gloss" 		: ["hair"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pisc",
+        "allomorphs"	: [],
+		"gloss" 		: ["fish"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pithec",
+        "allomorphs"	: [],
+		"gloss" 		: ["ape"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pl",
+        "allomorphs"	: ["plec", "plic"],
+		"gloss" 		: ["entwine", "fold", "time"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "plac",
+        "allomorphs"	: [],
+		"gloss" 		: ["flat"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "plag",
+        "allomorphs"	: ["plagi"],
+		"gloss" 		: ["oblique", "slanting"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "plas",
+        "allomorphs"	: [],
+		"gloss" 		: ["form", "mold"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "plat",
+        "allomorphs"	: ["platy"],
+		"gloss" 		: ["flat", "broad"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "plaud",
+        "allomorphs"	: ["plod"],
+		"gloss" 		: ["clap", "accept"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ple",
+        "allomorphs"	: [],
+		"gloss" 		: ["fill", "many"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pleb",
+        "allomorphs"	: [],
+		"gloss" 		: ["common people"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "plur",
+        "allomorphs"	: [],
+		"gloss" 		: ["many", "more"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "plut",
+        "allomorphs"	: [],
+		"gloss" 		: ["wealth"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pluvi",
+        "allomorphs"	: [],
+		"gloss" 		: ["rain"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pne",
+        "allomorphs"	: ["pneum"],
+		"gloss" 		: ["breath", "lung"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "po",
+        "allomorphs"	: [],
+		"gloss" 		: ["drink"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pod",
+        "allomorphs"	: ["pus"],
+		"gloss" 		: ["foot"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "poe",
+        "allomorphs"	: ["poie"],
+		"gloss" 		: ["make"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pol",
+        "allomorphs"	: [],
+		"gloss" 		: ["community"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "poli",
+        "allomorphs"	: [],
+		"gloss" 		: ["gray matter, spinal chord"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "poly",
+        "allomorphs"	: [],
+		"gloss" 		: ["many"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pom",
+        "allomorphs"	: [],
+		"gloss" 		: ["apple", "fruit"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pon",
+        "allomorphs"	: ["pos"],
+		"gloss" 		: ["place", "put"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "por",
+        "allomorphs"	: [],
+		"gloss" 		: ["passage", "opening"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "port",
+        "allomorphs"	: [],
+		"gloss" 		: ["carry"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "poss",
+        "allomorphs"	: ["pot"],
+		"gloss" 		: ["able", "powerful"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "post",
+        "allomorphs"	: [],
+		"gloss" 		: ["after", "behind"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "potam",
+        "allomorphs"	: [],
+		"gloss" 		: ["river"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "prac",
+        "allomorphs"	: ["prag", "pragmat"],
+		"gloss" 		: ["act", "do"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "prae",
+        "allomorphs"	: ["pre"],
+		"gloss" 		: ["before"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "prex",
+        "allomorphs"	: [],
+		"gloss" 		: ["entreat", "pray"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pred",
+        "allomorphs"	: [],
+		"gloss" 		: ["pretying"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "prehend",
+        "allomorphs"	: ["prehens"],
+		"gloss" 		: ["take", "seize"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "presby",
+        "allomorphs"	: [],
+		"gloss" 		: ["old"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "preter",
+        "allomorphs"	: [],
+		"gloss" 		: ["go by", "beyond"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "prim",
+        "allomorphs"	: [],
+		"gloss" 		: ["first"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pro",
+        "allomorphs"	: [],
+		"gloss" 		: ["forward", "for"],
+		"origin"		: "Latin, Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "prob",
+        "allomorphs"	: [],
+		"gloss" 		: ["good", "test"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "proct",
+        "allomorphs"	: [],
+		"gloss" 		: ["anus"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "prol",
+        "allomorphs"	: [],
+		"gloss" 		: ["offspring"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "prot",
+        "allomorphs"	: [],
+		"gloss" 		: ["first"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "promix",
+        "allomorphs"	: [],
+		"gloss" 		: ["near"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pseud",
+        "allomorphs"	: [],
+		"gloss" 		: ["false"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "psittac",
+        "allomorphs"	: [],
+		"gloss" 		: ["parrot"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "psor",
+        "allomorphs"	: [],
+		"gloss" 		: ["itch"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "psych",
+        "allomorphs"	: [],
+		"gloss" 		: ["mind"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pter",
+        "allomorphs"	: [],
+		"gloss" 		: ["wing", "feather"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pto",
+        "allomorphs"	: [],
+		"gloss" 		: ["fall"],
+		"origin"		: "Greel",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pty",
+        "allomorphs"	: [],
+		"gloss" 		: ["spit"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pu",
+        "allomorphs"	: ["putr"],
+		"gloss" 		: ["rot", "decay"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pub",
+        "allomorphs"	: [],
+		"gloss" 		: ["mature"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pug",
+        "allomorphs"	: ["pugn"],
+		"gloss" 		: ["poke", "fight"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pugn",
+        "allomorphs"	: [],
+		"gloss" 		: ["fist", "fight"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pulm",
+        "allomorphs"	: ["pulmon"],
+		"gloss" 		: ["lung"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "punct",
+        "allomorphs"	: [],
+		"gloss" 		: ["point"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pur",
+        "allomorphs"	: ["purg"],
+		"gloss" 		: ["clean"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "py",
+        "allomorphs"	: [],
+		"gloss" 		: ["rot", "decay"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pyg",
+        "allomorphs"	: [],
+		"gloss" 		: ["buttocks"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "pyr",
+        "allomorphs"	: [],
+		"gloss" 		: ["fire"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "quandr",
+        "allomorphs"	: [],
+		"gloss" 		: ["four"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "quart",
+        "allomorphs"	: [],
+		"gloss" 		: ["fourth"],
+		"origin"		: "",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: "Fractions"
+    },{
+		"id"			: "",
+        "morpheme"		: "quatern",
+        "allomorphs"	: [],
+		"gloss" 		: ["four (each)"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "quin",
+        "allomorphs"	: [],
+		"gloss" 		: ["five (each)"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "quinque",
+        "allomorphs"	: [],
+		"gloss" 		: ["five"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: "Fraction"
+    },{
+		"id"			: "",
+        "morpheme"		: "rach",
+        "allomorphs"	: [],
+		"gloss" 		: ["spine", "vertebrae"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "radi",
+        "allomorphs"	: [],
+		"gloss" 		: ["spoke", "ray"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "radic",
+        "allomorphs"	: [],
+		"gloss" 		: ["root", "basic"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ram",
+        "allomorphs"	: [],
+		"gloss" 		: ["branch"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "rap",
+        "allomorphs"	: [],
+		"gloss" 		: ["seize", "steal"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "re",
+        "allomorphs"	: ["red"],
+		"gloss" 		: ["again", "back"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "reg",
+        "allomorphs"	: ["rig"],
+		"gloss" 		: ["rule", "straight"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ren",
+        "allomorphs"	: [],
+		"gloss" 		: ["kidney"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "ret",
+        "allomorphs"	: [],
+		"gloss" 		: ["net"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "retro",
+        "allomorphs"	: [],
+		"gloss" 		: ["reverse", "back"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "rhin",
+        "allomorphs"	: [],
+		"gloss" 		: ["nose"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "rhiz",
+        "allomorphs"	: [],
+		"gloss" 		: ["root"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "rid",
+        "allomorphs"	: ["ris"],
+		"gloss" 		: ["laugh"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "robus",
+        "allomorphs"	: ["robor"],
+		"gloss" 		: ["strong"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "rog",
+        "allomorphs"	: [],
+		"gloss" 		: ["ask"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "rrh",
+        "allomorphs"	: ["rrhag"],
+		"gloss" 		: ["flow"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "rub",
+        "allomorphs"	: ["ruf"],
+		"gloss" 		: ["red"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sacr",
+        "allomorphs"	: ["sanc", "secr"],
+		"gloss" 		: ["holy"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sal",
+        "allomorphs"	: [],
+		"gloss" 		: ["salt"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sal",
+        "allomorphs"	: ["sil"],
+		"gloss" 		: ["jumo"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "salv",
+        "allomorphs"	: ["salu"],
+		"gloss" 		: ["safe", "greet", "healthy"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sanguin",
+        "allomorphs"	: [],
+		"gloss" 		: ["blood"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sap",
+        "allomorphs"	: [],
+		"gloss" 		: ["taste", "percieve"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sapr",
+        "allomorphs"	: [],
+		"gloss" 		: ["rotten"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sarc",
+        "allomorphs"	: [],
+		"gloss" 		: ["flesh"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sat",
+        "allomorphs"	: [],
+		"gloss" 		: ["sufficient"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "saur",
+        "allomorphs"	: [],
+		"gloss" 		: ["lizard"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "scand",
+        "allomorphs"	: ["scend", "scans", "scal"],
+		"gloss" 		: ["climb", "steps"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "scat",
+        "allomorphs"	: [],
+		"gloss" 		: ["dung", "feces"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "schiz",
+        "allomorphs"	: ["schis"],
+		"gloss" 		: ["split", "divide"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sci",
+        "allomorphs"	: [],
+		"gloss" 		: ["know", "discern"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sci",
+        "allomorphs"	: ["ski"],
+		"gloss" 		: ["shadow"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "scind",
+        "allomorphs"	: ["sciss"],
+		"gloss" 		: ["split"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "scler",
+        "allomorphs"	: [],
+		"gloss" 		: ["hard"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "scop",
+        "allomorphs"	: ["scep", "skep"],
+		"gloss" 		: ["view", "see"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "scrib",
+        "allomorphs"	: ["scrip"],
+		"gloss" 		: ["write"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "se",
+        "allomorphs"	: ["sed"],
+		"gloss" 		: ["apart"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "seb",
+        "allomorphs"	: [],
+		"gloss" 		: ["fat", "sebum"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sec",
+        "allomorphs"	: [],
+		"gloss" 		: ["cut", "split"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "secu",
+        "allomorphs"	: ["sequ"],
+		"gloss" 		: ["follow"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sed",
+        "allomorphs"	: ["sid", "sess"],
+		"gloss" 		: ["sit"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "seism",
+        "allomorphs"	: [],
+		"gloss" 		: ["shake"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sem",
+        "allomorphs"	: [],
+		"gloss" 		: ["sign", "meaning"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "semen",
+        "allomorphs"	: ["semin"],
+		"gloss" 		: ["seed"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "semi",
+        "allomorphs"	: [],
+		"gloss" 		: ["hald"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sen",
+        "allomorphs"	: [],
+		"gloss" 		: ["old (person)"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sen",
+        "allomorphs"	: [],
+		"gloss" 		: ["six (each)"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sent",
+        "allomorphs"	: ["sens"],
+		"gloss" 		: ["feel"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sep",
+        "allomorphs"	: [],
+		"gloss" 		: ["putrid", "infected"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "septem",
+        "allomorphs"	: [],
+		"gloss" 		: ["seven"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "septen",
+        "allomorphs"	: [],
+		"gloss" 		: ["seven (each)"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "septim",
+        "allomorphs"	: [],
+		"gloss" 		: ["seventh"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: "Fraction"
+    },{
+		"id"			: "",
+        "morpheme"		: "ser",
+        "allomorphs"	: [],
+		"gloss" 		: ["fluid", "serum"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "serp",
+        "allomorphs"	: [],
+		"gloss" 		: ["creep", "snake"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: "Creep as in to creep"
+    },{
+		"id"			: "",
+        "morpheme"		: "serr",
+        "allomorphs"	: [],
+		"gloss" 		: ["saw"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "serv",
+        "allomorphs"	: [],
+		"gloss" 		: ["work for"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sesqui",
+        "allomorphs"	: [],
+		"gloss" 		: ["one and a half"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sex",
+        "allomorphs"	: [],
+		"gloss" 		: ["six"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sext",
+        "allomorphs"	: [],
+		"gloss" 		: ["sixth"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sicc",
+        "allomorphs"	: [],
+		"gloss" 		: ["dry"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sil",
+        "allomorphs"	: ["sal"],
+		"gloss" 		: ["jump"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sim",
+        "allomorphs"	: [],
+		"gloss" 		: ["one"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sis",
+        "allomorphs"	: [],
+		"gloss" 		: ["Noun"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: true,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sist",
+        "allomorphs"	: [],
+		"gloss" 		: ["stand"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sol",
+        "allomorphs"	: [],
+		"gloss" 		: ["alone"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sol",
+        "allomorphs"	: [],
+		"gloss" 		: ["sun"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "solv",
+        "allomorphs"	: ["solu"],
+		"gloss" 		: ["loosen", "unbind"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "som",
+        "allomorphs"	: ["somat"],
+		"gloss" 		: ["sleep"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "somn",
+        "allomorphs"	: [],
+		"gloss" 		: ["sleep"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "son",
+        "allomorphs"	: [],
+		"gloss" 		: ["sound"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sop",
+        "allomorphs"	: ["sopor"],
+		"gloss" 		: ["sleep"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "soph",
+        "allomorphs"	: [],
+		"gloss" 		: ["wise"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "soror",
+        "allomorphs"	: [],
+		"gloss" 		: ["sister"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "spas",
+        "allomorphs"	: [],
+		"gloss" 		: ["convulsion"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "spec",
+        "allomorphs"	: ["spic"],
+		"gloss" 		: ["looks", "see"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "spel",
+        "allomorphs"	: [],
+		"gloss" 		: ["cave"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sperm",
+        "allomorphs"	: [],
+		"gloss" 		: ["seed"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sphing",
+        "allomorphs"	: ["sphinc"],
+		"gloss" 		: ["bind tight"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sphygm",
+        "allomorphs"	: [],
+		"gloss" 		: ["pulse"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "spir",
+        "allomorphs"	: [],
+		"gloss" 		: ["breath"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "spondyl",
+        "allomorphs"	: [],
+		"gloss" 		: ["backbone", "vertebra"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "spor",
+        "allomorphs"	: [],
+		"gloss" 		: ["scatter", "seed"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "squam",
+        "allomorphs"	: [],
+		"gloss" 		: ["scale"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: "Scale as in the scales of a reptile."
+    },{
+		"id"			: "",
+        "morpheme"		: "sta",
+        "allomorphs"	: ["ste"],
+		"gloss" 		: ["stand", "state"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sta",
+        "allomorphs"	: ["ste", "sti", "st"],
+		"gloss" 		: ["stand", "state"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "steat",
+        "allomorphs"	: ["stear"],
+		"gloss" 		: ["fat"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "steg",
+        "allomorphs"	: ["teg"],
+		"gloss" 		: ["cover", "roof"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "stell",
+        "allomorphs"	: [],
+		"gloss" 		: ["star"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sten",
+        "allomorphs"	: [false],
+		"gloss" 		: ["narrow"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "steth",
+        "allomorphs"	: [],
+		"gloss" 		: ["chest"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sthen",
+        "allomorphs"	: [],
+		"gloss" 		: ["strong"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "still",
+        "allomorphs"	: [],
+		"gloss" 		: ["drop", "drip"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "stom",
+        "allomorphs"	: ["stomat"],
+		"gloss" 		: ["mouth", "opening"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "strat",
+        "allomorphs"	: [],
+		"gloss" 		: ["stretch", "level", "later"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "stru",
+        "allomorphs"	: ["struc"],
+		"gloss" 		: ["build", "pile up"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "styl",
+        "allomorphs"	: [],
+		"gloss" 		: ["pillar", "stylus"],
+		"origin"		: "Greek",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sub",
+        "allomorphs"	: [],
+		"gloss" 		: ["under", "inferior"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "succ",
+        "allomorphs"	: [],
+		"gloss" 		: ["juice", "sap"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "sud",
+        "allomorphs"	: [],
+		"gloss" 		: ["sweat"],
+		"origin"		: "Latin",
+		"isPrefix"		: false,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "super",
+        "allomorphs"	: [],
+		"gloss" 		: ["above", "excessive"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "supra",
+        "allomorphs"	: [],
+		"gloss" 		: ["above", "greater"],
+		"origin"		: "Latin",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "syn",
+        "allomorphs"	: [],
+		"gloss" 		: ["with", "together"],
+		"origin"		: "Greek",
+		"isPrefix"		: true,
+		"isSuffix"		: false,
+		"notes"			: ""
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
+    },{
+		"id"			: "",
+        "morpheme"		: "<##>",
+        "allomorphs"	: [<##>],
+		"gloss" 		: [<##>],
+		"origin"		: "<##>",
+		"isPrefix"		: <#BOOL#>,
+		"isSuffix"		: <##>,
+		"notes"			: "<##>"
     },{
 		"id"			: "",
         "morpheme"		: "<##>",
