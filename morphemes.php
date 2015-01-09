@@ -75,7 +75,9 @@
 					<ul id="search-results">
 						<li ng-click="ctrl.handleMorphemeClick(morpheme.id)" class="result" ng-repeat="morpheme in search.morphemes | filter: search.morphemeFilter">
 							{{(morpheme.isSuffix ? "-" : "") + morpheme.morpheme + (morpheme.isPrefix ? "-" : "")}}
-							<span class="allomorphs-holder" ng-show="morpheme.allomorphs">~{{morpheme.allomorphs.join('~')}}</span>
+							<span class="allomorphs-holder" ng-show="morpheme.allomorphs">
+								~{{morpheme.allomorphs.join('~')}}
+							</span>
 						</li>
 					</ul>
 				</div>
