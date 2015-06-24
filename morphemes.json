@@ -1661,7 +1661,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["incumbent"]
+        "examples"      : ["incumbent","incubate"]
     },
     {
         "id"            : "",
@@ -1727,7 +1727,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["concuss", "concussion"]
+        "examples"      : ["concuss", "concussion","percussion"]
     },
     {
         "id"            : "",
@@ -1892,7 +1892,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["democracy", "demographics"]
+        "examples"      : ["democracy", "demographics","demagogue"]
     },
     {
         "id"            : "",
@@ -1947,7 +1947,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["deuterostome"]
+        "examples"      : ["deuterostome","deuteragonist"]
     },
     {
         "id"            : "",
@@ -1991,7 +1991,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["diction","predict"]
     },
     {
         "id"            : "",
@@ -2079,7 +2079,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["doctor", "document"]
+        "examples"      : ["doctor", "document","doctrine"]
     },
     {
         "id"            : "",
