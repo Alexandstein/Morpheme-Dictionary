@@ -31,7 +31,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["aliform", "alar", "alinasal"]
     },
     {
 		"id"			: "",
@@ -1022,7 +1022,7 @@
 		"isPrefix"		: true,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["catabolism", "cataclysm"]
     },
     {
 		"id"			: "",
@@ -1033,7 +1033,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["caudal"]
     },
     {
 		"id"			: "",
@@ -1044,7 +1044,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["cauterize", "caustic"]
     },
     {
 		"id"			: "",
@@ -1055,7 +1055,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["cavity", "cavitation"]
     },
     {
 		"id"			: "",
@@ -1066,7 +1066,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["cavity", "cavitation"]
     },
     {
 		"id"			: "",
@@ -1077,7 +1077,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["recede", "cessation", "concede"]
     },
     {
 		"id"			: "",
@@ -1088,7 +1088,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["census"]
     },
     {
 		"id"			: "",
@@ -1099,7 +1099,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["centennial", "centenarian"]
     },
     {
 		"id"			: "",
@@ -1110,7 +1110,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["central"]
     },
     {
 		"id"			: "",
@@ -1121,7 +1121,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["recipient", "recuperate"]
     },
     {
 		"id"			: "",
@@ -1132,7 +1132,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["cephalopod", "megalencephaly", "encephalitic"]
     },
     {
 		"id"			: "",
@@ -1143,7 +1143,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["unicorn", "chelicerate"]
     },
     {
 		"id"			: "",
@@ -1154,7 +1154,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["keratin", "cranium"]
     },
     {
 		"id"			: "",
@@ -1187,7 +1187,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["cervix", "cervical"]
     },
     {
 		"id"			: "",
@@ -1209,7 +1209,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["chiropractic", "chirality", "chiroptera"]
     },
     {
 		"id"			: "",
@@ -1220,7 +1220,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["chondritis","chondrichthyes"]
     },
     {
 		"id"			: "",
@@ -1231,7 +1231,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["chromatic", "monochrome"]
     },
     {
 		"id"			: "",
@@ -1242,7 +1242,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["chronological", "anachronism"]
     },
     {
 		"id"			: "",
@@ -1253,7 +1253,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["chrysalis", "chrysanthemum"]
     },
     {
 		"id"			: "",
@@ -1264,7 +1264,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["chthonic"]
     },
     {
 		"id"			: "",
@@ -1275,7 +1275,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["homicide", "incision", "decide"]
     },
     {
 		"id"			: "",
@@ -1286,7 +1286,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["cilia"]
     },
     {
 		"id"			: "",
@@ -1297,7 +1297,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["cinder"]
     },
     {
 		"id"			: "",
@@ -1308,7 +1308,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["kinetic", "cinema"]
     },
     {
 		"id"			: "",
@@ -1319,7 +1319,7 @@
 		"isPrefix"		: true,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["circumvent", "circumference"]
     },
     {
 		"id"			: "",
@@ -1330,7 +1330,7 @@
 		"isPrefix"		: true,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["cisgender", "cis fatty acid"]
     },
     {
 		"id"			: "",
@@ -1363,7 +1363,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["clarity", "clairvoyant", "declaration", "clarinet"]
     },
     {
 		"id"			: "",
@@ -1406,7 +1406,7 @@
 		"gloss" 		: ["close"],
 		"isPrefix"		: false,
 		"isSuffix"		: false,
-		"notes"			: "Verb"
+		"notes"			: "Verb",
 		"examples"		: ["cluster", "conclude"]
     },
     {
@@ -1440,7 +1440,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["colonize"]
     },
     {
 		"id"			: "",
@@ -1451,7 +1451,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["collagen", "colloid"]
     },
     {
 		"id"			: "",
@@ -1462,7 +1462,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["collar"]
     },
     {
 		"id"			: "",
@@ -1473,7 +1473,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["conifer", "cone"]
     },
     {
 		"id"			: "",
@@ -1484,7 +1484,7 @@
 		"isPrefix"		: true,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["contrabass", "contraband", "contraception"]
     },
     {
 		"id"			: "",
@@ -1495,7 +1495,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["coprolite", "coprolalia"]
     }, 
     {
 		"id"			: "",
@@ -1505,7 +1505,9 @@
 		"origin"		: "Greek",
 		"isPrefix"		: false,
 		"isSuffix"		: false,
-		"notes"			: "of eye."
+		"notes"			: "of eye",
+		"examples"		: ["coredialysis", "coreometer"]
+
     },
     {
 		"id"			: "",
@@ -1516,7 +1518,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["core", "cordially", "courage"]
     },
     {
 		"id"			: "",
@@ -1527,7 +1529,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["unicorn"]
     },
     {
 		"id"			: "",
@@ -1538,7 +1540,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["corona", "coronation"]
     },
     {
 		"id"			: "",
@@ -1549,7 +1551,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["corpse", "incorporeal"]
     },
     {
 		"id"			: "",
@@ -1560,7 +1562,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["cortex"]
     },
     {
 		"id"			: "",
@@ -1571,7 +1573,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["cosmology", "cosmetic", "microcosm"]
     },
     {
 		"id"			: "",
@@ -1582,7 +1584,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["costal"]
     },
     {
 		"id"			: "",
@@ -1604,7 +1606,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["democracy", "bureaucrat"]
     },
     {
 		"id"			: "",
@@ -1615,7 +1617,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["discern"]
     },
     {
 		"id"			: "",
@@ -6231,7 +6233,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["phylum"]
     },{
 		"id"			: "",
         "morpheme"		: "phylac",
@@ -6241,7 +6243,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["phylactery"]
     },{
 		"id"			: "",
         "morpheme"		: "phyll",
@@ -6251,7 +6253,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["chlorophyl"]
     },{
 		"id"			: "",
         "morpheme"		: "phys",
@@ -6261,7 +6263,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["physics"]
     },{
 		"id"			: "",
         "morpheme"		: "phyt",
@@ -6271,7 +6273,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["phytomer", "phytoplankton", "bryophyte"]
     },{
 		"id"			: "",
         "morpheme"		: "pig",
@@ -6281,7 +6283,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["picture", "pigment"]
     },{
 		"id"			: "",
         "morpheme"		: "pil",
@@ -6291,7 +6293,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["pili", "pilose"]
     },{
 		"id"			: "",
         "morpheme"		: "pisc",
@@ -6301,7 +6303,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["pisces", "pescetarian"]
     },{
 		"id"			: "",
         "morpheme"		: "pithec",
@@ -6311,7 +6313,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["australopithecine"]
     },{
 		"id"			: "",
         "morpheme"		: "pl",
@@ -6331,7 +6333,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["placoderm"]
     },{
 		"id"			: "",
         "morpheme"		: "plag",
@@ -6351,7 +6353,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["plastic", "plasma", "dysplasia"]
     },{
 		"id"			: "",
         "morpheme"		: "plat",
@@ -6361,7 +6363,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["platypus", "platyhelminth"]
     },{
 		"id"			: "",
         "morpheme"		: "plaud",
@@ -6371,7 +6373,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["applaud"]
     },{
 		"id"			: "",
         "morpheme"		: "ple",
@@ -6381,7 +6383,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["ample"]
     },{
 		"id"			: "",
         "morpheme"		: "pleb",
@@ -6391,7 +6393,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["plebeian"]
     },{
 		"id"			: "",
         "morpheme"		: "plur",
@@ -6401,7 +6403,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["plural"]
     },{
 		"id"			: "",
         "morpheme"		: "plut",
@@ -6411,7 +6413,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["plutocracy"]
     },{
 		"id"			: "",
         "morpheme"		: "pluvi",
@@ -6431,7 +6433,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["pneumatic"]
     },{
 		"id"			: "",
         "morpheme"		: "po",
@@ -6451,7 +6453,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["octopus", "pseudopod", "platypus"]
     },{
 		"id"			: "",
         "morpheme"		: "poe",
@@ -6471,7 +6473,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["politics", "poll"]
     },{
 		"id"			: "",
         "morpheme"		: "poli",
@@ -6491,7 +6493,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["polyamory", "polyphyletic", "polygon"]
     },{
 		"id"			: "",
         "morpheme"		: "pom",
@@ -6511,7 +6513,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["position"]
     },{
 		"id"			: "",
         "morpheme"		: "por",
@@ -6521,7 +6523,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["pore", "porous"]
     },{
 		"id"			: "",
         "morpheme"		: "port",
@@ -6531,7 +6533,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["teleport", "portable"]
     },{
 		"id"			: "",
         "morpheme"		: "poss",
@@ -6541,7 +6543,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["impossible", "omnipotent", "potency"]
     },{
 		"id"			: "",
         "morpheme"		: "post",
@@ -6551,7 +6553,7 @@
 		"isPrefix"		: true,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["posthumous", "post-apocalyptic"]
     },{
 		"id"			: "",
         "morpheme"		: "potam",
@@ -6561,7 +6563,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["hippopotamus"]
     },{
 		"id"			: "",
         "morpheme"		: "prac",
@@ -6571,7 +6573,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["practical", "pragmatic"]
     },{
 		"id"			: "",
         "morpheme"		: "prae",
@@ -6581,7 +6583,7 @@
 		"isPrefix"		: true,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["prehistory", "prepend"]
     },{
 		"id"			: "",
         "morpheme"		: "prex",
@@ -6621,7 +6623,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["presbytery"]
     },{
 		"id"			: "",
         "morpheme"		: "preter",
@@ -6641,7 +6643,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["prime", "primary"]
     },{
 		"id"			: "",
         "morpheme"		: "pro",
@@ -6651,7 +6653,7 @@
 		"isPrefix"		: true,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["progress", "prompt"]
     },{
 		"id"			: "",
         "morpheme"		: "prob",
@@ -6691,17 +6693,17 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["prototype", "protocell", "protozoa"]
     },{
 		"id"			: "",
-        "morpheme"		: "promix",
+        "morpheme"		: "proxim",
         "allomorphs"	: [],
 		"gloss" 		: ["near"],
 		"origin"		: "Latin",
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["proximity", "approximate"]
     },{
 		"id"			: "",
         "morpheme"		: "pseud",
@@ -6711,7 +6713,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["pseudonym", "pseudopod", "pseudoscience"]
     },{
 		"id"			: "",
         "morpheme"		: "psittac",
@@ -6731,17 +6733,17 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["psoriases"]
     },{
 		"id"			: "",
         "morpheme"		: "psych",
         "allomorphs"	: [],
-		"gloss" 		: ["mind"],
+		"gloss" 		: ["mind", "soul"],
 		"origin"		: "Greek",
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["psychology", "psychopomp"]
     },{
 		"id"			: "",
         "morpheme"		: "pter",
@@ -6751,7 +6753,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["pterosaur", "hemipteran"]
     },{
 		"id"			: "",
         "morpheme"		: "pto",
@@ -6781,7 +6783,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["putrid", "putrefy"]
     },{
 		"id"			: "",
         "morpheme"		: "pub",
@@ -6791,27 +6793,17 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
-    },{
-		"id"			: "",
-        "morpheme"		: "pug",
-        "allomorphs"	: ["pugn"],
-		"gloss" 		: ["poke", "fight"],
-		"origin"		: "Latin",
-		"isPrefix"		: false,
-		"isSuffix"		: false,
-		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["puberty"]
     },{
 		"id"			: "",
         "morpheme"		: "pugn",
-        "allomorphs"	: [],
+        "allomorphs"	: ["pug"],
 		"gloss" 		: ["fist", "fight"],
 		"origin"		: "Latin",
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["impugn", "repugnant"]
     },{
 		"id"			: "",
         "morpheme"		: "pulm",
@@ -6821,7 +6813,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["pulmonary", "pulmonic"]
     },{
 		"id"			: "",
         "morpheme"		: "punct",
@@ -6831,7 +6823,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["punctuation", "punctual"]
     },{
 		"id"			: "",
         "morpheme"		: "pur",
@@ -6841,7 +6833,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["purgatory", "purify", "purge"]
     },{
 		"id"			: "",
         "morpheme"		: "py",
@@ -6861,7 +6853,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["pygostyle"]
     },{
 		"id"			: "",
         "morpheme"		: "pyr",
@@ -6871,7 +6863,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["pyrotechnics", "pyrogens"]
     },{
 		"id"			: "",
         "morpheme"		: "quandr",
@@ -6900,7 +6892,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["quaternary"]
     },{
 		"id"			: "",
         "morpheme"		: "quin",
@@ -6910,7 +6902,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["quinary"]
     },{
 		"id"			: "",
         "morpheme"		: "quinque",
@@ -6939,7 +6931,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["radiate", "radiation"]
     },{
 		"id"			: "",
         "morpheme"		: "radic",
@@ -6949,7 +6941,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["radical", "radix"]
     },{
 		"id"			: "",
         "morpheme"		: "ram",
@@ -6969,7 +6961,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["rapture", "raptor", "enrapture"]
     },{
 		"id"			: "",
         "morpheme"		: "re",
@@ -6979,7 +6971,7 @@
 		"isPrefix"		: true,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["return", "redact", "reactivate"]
     },{
 		"id"			: "",
         "morpheme"		: "reg",
@@ -6989,7 +6981,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["regular", "rigor"]
     },{
 		"id"			: "",
         "morpheme"		: "ren",
@@ -6999,7 +6991,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["renal"]
     },{
 		"id"			: "",
         "morpheme"		: "ret",
@@ -7009,7 +7001,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["reticulate", "retina"]
     },{
 		"id"			: "",
         "morpheme"		: "retro",
@@ -7029,7 +7021,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["rhinovirus", "rhinoceros"]
     },{
 		"id"			: "",
         "morpheme"		: "rhiz",
@@ -7039,7 +7031,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["rhizome", "rhizaria"]
     },{
 		"id"			: "",
         "morpheme"		: "rid",
@@ -7049,7 +7041,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["ridicule"]
     },{
 		"id"			: "",
         "morpheme"		: "robus",
@@ -7059,7 +7051,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["robust"]
     },{
 		"id"			: "",
         "morpheme"		: "rog",
@@ -7069,7 +7061,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["interrogate"]
     },{
 		"id"			: "",
         "morpheme"		: "rrh",
@@ -7079,7 +7071,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["hemorrhage"]
     },{
 		"id"			: "",
         "morpheme"		: "rub",
@@ -7108,7 +7100,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["sacrifice", "desecrate"]
     },{
 		"id"			: "",
         "morpheme"		: "sal",
@@ -7118,17 +7110,17 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["saline", "salt"]
     },{
 		"id"			: "",
         "morpheme"		: "sal",
         "allomorphs"	: ["sil"],
-		"gloss" 		: ["jumo"],
+		"gloss" 		: ["jump"],
 		"origin"		: "Latin",
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["saltation"]
     },{
 		"id"			: "",
         "morpheme"		: "salv",
@@ -7138,7 +7130,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["salutation", "salvation"]
     },{
 		"id"			: "",
         "morpheme"		: "sanguin",
@@ -7148,7 +7140,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["sanguine"]
     },{
 		"id"			: "",
         "morpheme"		: "sap",
@@ -7168,7 +7160,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["saprophyte"]
     },{
 		"id"			: "",
         "morpheme"		: "sarc",
@@ -7178,7 +7170,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["sarcophagus"]
     },{
 		"id"			: "",
         "morpheme"		: "sat",
@@ -7198,7 +7190,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["dinosaur"]
     },{
 		"id"			: "",
         "morpheme"		: "scand",
@@ -7646,7 +7638,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["sophomore", "philosophy"]
     },{
 		"id"			: "",
         "morpheme"		: "soror",
@@ -7656,7 +7648,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["sorority"]
     },{
 		"id"			: "",
         "morpheme"		: "spas",
@@ -7666,7 +7658,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["spasm"]
     },{
 		"id"			: "",
         "morpheme"		: "spec",
@@ -7676,7 +7668,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["spectacle", "speculate", "species", "aspect"]
     },{
 		"id"			: "",
         "morpheme"		: "spel",
@@ -7696,7 +7688,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["angiosperm", "sperm", "spermatophore"]
     },{
 		"id"			: "",
         "morpheme"		: "sphing",
@@ -7706,7 +7698,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["sphincter"]
     },{
 		"id"			: "",
         "morpheme"		: "sphygm",
@@ -7726,7 +7718,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["respire", "perspiration"]
     },{
 		"id"			: "",
         "morpheme"		: "spondyl",
@@ -7746,7 +7738,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["spore", "sporophyte"]
     },{
 		"id"			: "",
         "morpheme"		: "squam",
@@ -7795,7 +7787,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["stegosaurus", "steganography"]
     },{
 		"id"			: "",
         "morpheme"		: "stell",
@@ -7805,7 +7797,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["stellar"]
     },{
 		"id"			: "",
         "morpheme"		: "sten",
@@ -7815,7 +7807,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["stenograph", "stenosis"]
     },{
 		"id"			: "",
         "morpheme"		: "steth",
@@ -7825,7 +7817,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["stethoscope"]
     },{
 		"id"			: "",
         "morpheme"		: "sthen",
@@ -7845,7 +7837,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["distill"]
     },{
 		"id"			: "",
         "morpheme"		: "stom",
@@ -7855,7 +7847,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["stomata", "stomach"]
     },{
 		"id"			: "",
         "morpheme"		: "strat",
@@ -7865,7 +7857,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["stratosphere", "stratum"]
     },{
 		"id"			: "",
         "morpheme"		: "stru",
@@ -7875,7 +7867,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["construct", "structure"]
     },{
 		"id"			: "",
         "morpheme"		: "styl",
@@ -7885,7 +7877,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["stylus", "pygostyle", "stylobate"]
     },{
 		"id"			: "",
         "morpheme"		: "sub",
@@ -7895,7 +7887,7 @@
 		"isPrefix"		: true,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["subatomic", "submarine", "submissive"]
     },{
 		"id"			: "",
         "morpheme"		: "succ",
@@ -7905,7 +7897,7 @@
 		"isPrefix"		: false,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["succulent"]
     },{
 		"id"			: "",
         "morpheme"		: "sud",
@@ -7925,7 +7917,7 @@
 		"isPrefix"		: true,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["superlative", "superb"]
     },{
 		"id"			: "",
         "morpheme"		: "supra",
@@ -7935,7 +7927,7 @@
 		"isPrefix"		: true,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["supramolecular", "suprasegmental"]
     },{
 		"id"			: "",
         "morpheme"		: "syn",
@@ -7945,7 +7937,7 @@
 		"isPrefix"		: true,
 		"isSuffix"		: false,
 		"notes"			: "",
-		"examples"		: []
+		"examples"		: ["synchrony", "synapse"]
     },{
 		"id"			: "",
         "morpheme"		: "t",
@@ -8893,8 +8885,8 @@
 		"origin"		: "Greek",
 		"isPrefix"		: false,
 		"isSuffix"		: false,
-		"notes"			: "xenophobia", "xenografts",
-		"examples"		: []
+		"notes"			: "",
+		"examples"		: ["xenophobia", "xenografts"]
     },{
 		"id"			: "",
         "morpheme"		: "xer",
