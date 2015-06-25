@@ -7681,7 +7681,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["spelunk"]
     },{
         "id"            : "",
         "morpheme"      : "sperm",
@@ -7750,16 +7750,7 @@
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
-        "notes"         : "scale as in the scales of a reptile."
-    },{
-        "id"            : "",
-        "morpheme"      : "sta",
-        "allomorphs"    : ["ste"],
-        "gloss"         : ["stand", "state"],
-        "origin"        : "Greek",
-        "isPrefix"      : false,
-        "isSuffix"      : false,
-        "notes"         : "",
+        "notes"         : "scale as in the scales of a reptile.",
         "examples"      : []
     },{
         "id"            : "",
@@ -7830,7 +7821,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["sthenic"]
     },{
         "id"            : "",
         "morpheme"      : "still",
@@ -7960,7 +7951,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["tacit","taciturn"]
     },{
         "id"            : "",
         "morpheme"      : "tac",
@@ -7990,7 +7981,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["tangible","integer"]
     },{
         "id"            : "",
         "morpheme"      : "taph",
@@ -8000,7 +7991,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["epitaph"]
     },{
         "id"            : "",
         "morpheme"      : "taur",
@@ -8030,7 +8021,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["television","telemetry"]
     },{
         "id"            : "",
         "morpheme"      : "tempor",
@@ -8040,7 +8031,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["temporal","temporary"]
     },{
         "id"            : "",
         "morpheme"      : "ten",
@@ -8069,7 +8060,8 @@
         "origin"        : "Greek",
         "isPrefix"      : true,
         "isSuffix"      : false,
-        "notes"         : "official si prefic for trillion."
+        "notes"         : "official si prefic for trillion.",
+        "examples"      : []
     },{
         "id"            : "",
         "morpheme"      : "terat",
@@ -8088,7 +8080,8 @@
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
-        "notes"         : "back as in the Noun."
+        "notes"         : "back as in the Noun.",
+        "examples"      : []
     },{
         "id"            : "",
         "morpheme"      : "tern",
@@ -8098,7 +8091,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["ternary"]
     },{
         "id"            : "",
         "morpheme"      : "terr",
