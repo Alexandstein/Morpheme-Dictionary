@@ -8108,7 +8108,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["terrain","subterranean"]
     },{
         "id"            : "",
         "morpheme"      : "terti",
@@ -8178,7 +8178,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["theology","theocracy"]
     },{
         "id"            : "",
         "morpheme"      : "therm",
@@ -8188,7 +8188,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["thermal","thermometer"]
     },{
         "id"            : "",
         "morpheme"      : "thromb",
@@ -8198,7 +8198,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["thrombosis"]
     },{
         "id"            : "",
         "morpheme"      : "tic",
@@ -8238,7 +8238,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["atom"]
     },{
         "id"            : "",
         "morpheme"      : "ton",
@@ -8288,7 +8288,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["toxic"]
     },{
         "id"            : "",
         "morpheme"      : "tra",
@@ -8308,7 +8308,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["tractor","attract"]
     },{
         "id"            : "",
         "morpheme"      : "trem",
@@ -8318,7 +8318,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["tremble","tremulous"]
     },{
         "id"            : "",
         "morpheme"      : "tri",
@@ -8328,7 +8328,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["tricycle","trimester"]
     },{
         "id"            : "",
         "morpheme"      : "trich",
@@ -8388,7 +8388,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["atrophy"]
     },{
         "id"            : "",
         "morpheme"      : "trud",
@@ -8468,7 +8468,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["ultimate","ultimatum"]
     },{
         "id"            : "",
         "morpheme"      : "ultra",
@@ -8478,7 +8478,7 @@
         "isPrefix"      : true,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["ultraviolet"]
     },{
         "id"            : "",
         "morpheme"      : "umbr",
