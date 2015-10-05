@@ -2233,7 +2233,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["economy"]
     },
     {
         "id"            : "",
@@ -2545,7 +2545,7 @@
         "isPrefix"      : false,
         "isSuffix"      : true,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["baker","clothier","rider","lawyer"]
     },
     {
         "id"            : "",
@@ -3003,7 +3003,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["fuse","refund"]
     },{
         "id"            : "",
         "morpheme"      : "furc",
@@ -3043,7 +3043,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["gastronomy","gastric bypass"]
     },{
         "id"            : "",
         "morpheme"      : "ge",
@@ -3073,7 +3073,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["gemination","gemini"]
     },{
         "id"            : "",
         "morpheme"      : "gen",
@@ -3083,7 +3083,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["genuflect"]
     },{
         "id"            : "",
         "morpheme"      : "gen",
@@ -3113,7 +3113,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["geriatric"]
     },{
         "id"            : "",
         "morpheme"      : "ges",
@@ -8001,7 +8001,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["taurus","minotaur"]
     },{
         "id"            : "",
         "morpheme"      : "tel",
@@ -8401,7 +8401,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["tuberculosis"]
     },{
         "id"            : "",
         "morpheme"      : "tude",
