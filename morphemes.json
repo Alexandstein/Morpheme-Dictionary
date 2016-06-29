@@ -3642,7 +3642,7 @@
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : true,
-        "notes"         : "second declension plural."
+        "notes"         : "second declension plural",
         "examples"      : ["alumni", "styli"]
     },{
         "id"            : "",
