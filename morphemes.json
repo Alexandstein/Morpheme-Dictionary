@@ -5293,7 +5293,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["nominate", "nominative"]
     },{
         "id"            : "",
         "morpheme"      : "non",
@@ -5303,7 +5303,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["nonagon", "nonagenarian", "nonuple"]
     },{
         "id"            : "",
         "morpheme"      : "nov",
@@ -5313,7 +5313,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["innovate", "novel", "nova", "novice"]
     },{
         "id"            : "",
         "morpheme"      : "novem",
@@ -5323,7 +5323,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["November"]
     },{
         "id"            : "",
         "morpheme"      : "nomen",
@@ -5342,17 +5342,19 @@
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : true,
-        "notes"         : "present participle"
+        "notes"         : "present participle",
+        "examples"      : ["present", "element", "event"]
+
     },{
         "id"            : "",
         "morpheme"      : "nub",
-        "allomorphs"    : [],
+        "allomorphs"    : ["nupt"],
         "gloss"         : ["marry"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["nuptial", "connubial"]
     },{
         "id"            : "",
         "morpheme"      : "nuc",
@@ -5361,38 +5363,38 @@
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
-        "notes"         : "",
-        "examples"      : []
+        "notes"         : "Nucl = nuc (Latin diminutive)",
+        "examples"      : ["nucleus", "nucleon"]
     },{
         "id"            : "",
         "morpheme"      : "null",
-        "allomorphs"    : [],
+        "allomorphs"    : ["nul"],
         "gloss"         : ["nothing"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["null", "nullipotent", "nullify"]
     },{
         "id"            : "",
         "morpheme"      : "nunci",
-        "allomorphs"    : [],
+        "allomorphs"    : ["nounc"],
         "gloss"         : ["message"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["pronunciation", "enunciate", "announce"]
     },{
         "id"            : "",
         "morpheme"      : "nutri",
-        "allomorphs"    : [],
+        "allomorphs"    : ["nur"],
         "gloss"         : ["feed"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["nutrients", "nurture", "nurse", "nourish"]
     },{
         "id"            : "",
         "morpheme"      : "nyct",
@@ -5402,7 +5404,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["nyctophobia", "nyctalopia"]
     },{
         "id"            : "",
         "morpheme"      : "o",
@@ -5415,23 +5417,33 @@
     },{
         "id"            : "",
         "morpheme"      : "ob",
-        "allomorphs"    : [],
-        "gloss"         : ["toward", "against"],
+        "allomorphs"    : ["of", "oc", "op"],
+        "gloss"         : ["toward", "against", "upon", "over", "before"],
         "origin"        : "Latin",
         "isPrefix"      : true,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["obligation", "obstruct", "offend", "observe", "omit"]
+    },{
+        "id"            : "",
+        "morpheme"      : "obe",
+        "allomorphs"    : ["ob"],
+        "gloss"         : ["life"],
+        "origin"        : "Latin",
+        "isPrefix"      : false,
+        "isSuffix"      : true,
+        "notes"         : "",
+        "examples"      : ["microbe", "anaerobic"]
     },{
         "id"            : "",
         "morpheme"      : "octa",
         "allomorphs"    : [],
         "gloss"         : ["eight"],
-        "origin"        : "eight",
+        "origin"        : "Greek",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["octagon"]
     },{
         "id"            : "",
         "morpheme"      : "octav",
@@ -5451,7 +5463,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["octopus"]
     },{
         "id"            : "",
         "morpheme"      : "octon",
@@ -5461,7 +5473,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["octon (eclipse cycle)"]
     },{
         "id"            : "",
         "morpheme"      : "ocul",
@@ -5471,7 +5483,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["binoculars", "monocle"]
     },{
         "id"            : "",
         "morpheme"      : "od",
@@ -5481,7 +5493,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["threnody", "ode", "rhapsody", "episode"]
     },{
         "id"            : "",
         "morpheme"      : "od",
@@ -5491,7 +5503,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["odor", "olfactory", "olfaction", "malodorous"]
     },{
         "id"            : "",
         "morpheme"      : "odont",
@@ -5501,7 +5513,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["orthodontist", "heterodont"]
     },{
         "id"            : "",
         "morpheme"      : "odyn",
@@ -5521,7 +5533,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["oenology", "enology", "oenophile"]
     },{
         "id"            : "",
         "morpheme"      : "oid",
