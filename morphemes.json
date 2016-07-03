@@ -5531,7 +5531,7 @@
         "isPrefix"      : false,
         "isSuffix"      : true,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["humanoid", "spheroid"]
     },{
         "id"            : "",
         "morpheme"      : "ol",
@@ -5540,18 +5540,18 @@
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : true,
-        "notes"         : "",
-        "examples"      : []
+        "notes"         : "Latin diminutive",
+        "examples"      : ["centriole"]
     },{
         "id"            : "",
         "morpheme"      : "ole",
-        "allomorphs"    : [],
+        "allomorphs"    : ["ol"],
         "gloss"         : ["oil"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["petrol"]
     },{
         "id"            : "",
         "morpheme"      : "olig",
@@ -5561,7 +5561,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["oligarchy", "oligoclase"]
     },{
         "id"            : "",
         "morpheme"      : "oma",
@@ -5571,7 +5571,7 @@
         "isPrefix"      : false,
         "isSuffix"      : true,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["teratoma", "melanoma"]
     },{
         "id"            : "",
         "morpheme"      : "omn",
@@ -5581,7 +5581,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["omniscient", "omnipotent", "omnivore"]
     },{
         "id"            : "",
         "morpheme"      : "on",
@@ -5590,7 +5590,8 @@
         "origin"        : "Greek",
         "isPrefix"      : false,
         "isSuffix"      : true,
-        "notes"         : "singular"
+        "notes"         : "singular",
+        "examples"      : ["proton", "craton", "fermion"]
     },{
         "id"            : "",
         "morpheme"      : "onc",
@@ -5600,7 +5601,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["oncogenic", "oncology"]
     },{
         "id"            : "",
         "morpheme"      : "onom",
@@ -5610,7 +5611,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["synonym", "onomatopoeia", "paronomasia"]
     },{
         "id"            : "",
         "morpheme"      : "ont",
@@ -5620,7 +5621,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["ontogeny", "ontology", "paleontology"]
     },{
         "id"            : "",
         "morpheme"      : "oo",
@@ -5630,17 +5631,17 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["oocyte", "oophagy", "ootheca"]
     },{
         "id"            : "",
         "morpheme"      : "op",
-        "allomorphs"    : [],
+        "allomorphs"    : ["opt", "ops"],
         "gloss"         : ["see"],
         "origin"        : "Greek",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["optics", "cyclops", "synopsis"]
     },{
         "id"            : "",
         "morpheme"      : "ophthalm",
@@ -5650,7 +5651,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["ophthalmoscope", "ophthalmology"]
     },{
         "id"            : "",
         "morpheme"      : "ophi",
@@ -5660,7 +5661,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["Ophiuchus", "ophiology", "ophitoxaemia"]
     },{
         "id"            : "",
         "morpheme"      : "or",
@@ -5670,17 +5671,17 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["orate"]
     },{
         "id"            : "",
         "morpheme"      : "orb",
-        "allomorphs"    : [],
-        "gloss"         : ["circle"],
+        "allomorphs"    : ["orbit"],
+        "gloss"         : ["circle", "track"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["orb", "orbit", "exorbitant"]
     },{
         "id"            : "",
         "morpheme"      : "orch",
@@ -5690,7 +5691,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["orchid", "orchitis"]
     },{
         "id"            : "",
         "morpheme"      : "orn",
@@ -5700,7 +5701,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["ornithology", "ornithopter"]
     },{
         "id"            : "",
         "morpheme"      : "orth",
@@ -5710,7 +5711,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["orthodox", "orthodontist"]
     },{
         "id"            : "",
         "morpheme"      : "ory",
@@ -5720,7 +5721,7 @@
         "isPrefix"      : false,
         "isSuffix"      : true,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["oratory", "sensory"]
     },{
         "id"            : "",
         "morpheme"      : "os",
@@ -5739,7 +5740,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["oscular", "oral", "oracle", "orifice"]
     },{
         "id"            : "",
         "morpheme"      : "os",
@@ -5749,7 +5750,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["ossify", "ossicle"]
     },{
         "id"            : "",
         "morpheme"      : "ose",
@@ -5759,7 +5760,7 @@
         "isPrefix"      : false,
         "isSuffix"      : true,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["grandiose", "humungous", "aqueous"]
     },{
         "id"            : "",
         "morpheme"      : "osm",
@@ -5769,7 +5770,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["osmosis"]
     },{
         "id"            : "",
         "morpheme"      : "oste",
@@ -5779,7 +5780,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["osteoporosis", "osteology", "oyster"]
     },{
         "id"            : "",
         "morpheme"      : "ot",
@@ -5789,7 +5790,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["otoscope", "otology"]
     },{
         "id"            : "",
         "morpheme"      : "ov",
@@ -5799,7 +5800,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["ovulate", "oval"]
     },{
         "id"            : "",
         "morpheme"      : "ox",
@@ -5809,7 +5810,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["oxygen", "paradox", "oxymoron"]
     },{
         "id"            : "",
         "morpheme"      : "pac",
@@ -5819,7 +5820,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["pact", "pacifist"]
     },{
         "id"            : "",
         "morpheme"      : "pachy",
@@ -5829,7 +5830,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["pachyderm", "Pachycephalosaur"]
     },{
         "id"            : "",
         "morpheme"      : "paed",
@@ -5839,7 +5840,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["pedagogy", "pediatric"]
     },{
         "id"            : "",
         "morpheme"      : "pale",
@@ -5849,7 +5850,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["paleontology"]
     },{
         "id"            : "",
         "morpheme"      : "palin",
@@ -5859,7 +5860,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["palindrome"]
     },{
         "id"            : "",
         "morpheme"      : "pall",
@@ -5869,7 +5870,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["pallid", "appall"]
     },{
         "id"            : "",
         "morpheme"      : "palp",
@@ -5879,7 +5880,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["pedipalps", "palpitate"]
     },{
         "id"            : "",
         "morpheme"      : "pan",
@@ -5889,7 +5890,7 @@
         "isPrefix"      : true,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["pansexual", "Pangaea", "pandemic", "panacea"]
     },{
         "id"            : "",
         "morpheme"      : "par",
@@ -5899,7 +5900,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["compare", "parity"]
     },{
         "id"            : "",
         "morpheme"      : "par",
@@ -5909,7 +5910,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["viviparous", "parent"]
     },{
         "id"            : "",
         "morpheme"      : "para",
@@ -5919,7 +5920,7 @@
         "isPrefix"      : true,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["parallel", "paranormal", "parasite", "parody", "paralyze"]
     },{
         "id"            : "",
         "morpheme"      : "path",
@@ -5929,17 +5930,17 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["empathy", "pathogen", "pathology"]
     },{
         "id"            : "",
         "morpheme"      : "patr",
-        "allomorphs"    : [],
+        "allomorphs"    : ["pater"],
         "gloss"         : ["father", "country"],
         "origin"        : "Latin, Greek",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["patriarchy", "patriotic", "patron"]
     },{
         "id"            : "",
         "morpheme"      : "pauc",
@@ -5949,17 +5950,17 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["paucity", "paucal"]
     },{
         "id"            : "",
         "morpheme"      : "pecc",
         "allomorphs"    : [],
-        "gloss"         : ["sin"],
+        "gloss"         : ["sin", "to err"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["impeccable"]
     },{
         "id"            : "",
         "morpheme"      : "pector",
@@ -5969,7 +5970,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["pectoral"]
     },{
         "id"            : "",
         "morpheme"      : "pecu",
@@ -5979,7 +5980,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["peculate", "peculiar"]
     },{
         "id"            : "",
         "morpheme"      : "ped",
@@ -5989,27 +5990,27 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["peduncle", "pediatric"]
     },{
         "id"            : "",
         "morpheme"      : "pell",
-        "allomorphs"    : ["puls"],
+        "allomorphs"    : ["puls", "pel"],
         "gloss"         : ["push"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["repellant", "repulsive", "compel"]
     },{
         "id"            : "",
         "morpheme"      : "pen",
         "allomorphs"    : [],
-        "gloss"         : ["lack", "shortant"],
+        "gloss"         : ["to go within", "internal"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["penetrate", "impenetrable"]
     },{
         "id"            : "",
         "morpheme"      : "pen",
@@ -6019,7 +6020,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["penultimate", "peninsula", "Paenibacillus"]
     },{
         "id"            : "",
         "morpheme"      : "pen",
@@ -6029,17 +6030,17 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["punishment", "penitentiary"]
     },{
         "id"            : "",
         "morpheme"      : "pend",
-        "allomorphs"    : ["pond"],
+        "allomorphs"    : ["pens", "pond"],
         "gloss"         : ["hang", "weight"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["pendulum", "ponderous", "dispense", "suspense"]
     },{
         "id"            : "",
         "morpheme"      : "penn",
@@ -6049,7 +6050,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["pennaceous", "penne (pasta)"]
     },{
         "id"            : "",
         "morpheme"      : "penta",
@@ -6059,7 +6060,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["pentagon", "pentagram", "Pentecost"]
     },{
         "id"            : "",
         "morpheme"      : "pept",
@@ -6068,7 +6069,8 @@
         "origin"        : "Greek",
         "isPrefix"      : false,
         "isSuffix"      : false,
-        "notes"         : "digest as in biological digestion."
+        "notes"         : "digest as in biological digestion.",
+        "examples"		: []
     },{
         "id"            : "",
         "morpheme"      : "per",
@@ -6078,7 +6080,7 @@
         "isPrefix"      : true,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["pervade", "permeate"]
     },{
         "id"            : "",
         "morpheme"      : "peri",
@@ -6088,7 +6090,7 @@
         "isPrefix"      : true,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["periscope", "perimeter"]
     },{
         "id"            : "",
         "morpheme"      : "pet",
@@ -6108,7 +6110,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["petrify", "petrichor"]
     },{
         "id"            : "",
         "morpheme"      : "pha",
@@ -6118,7 +6120,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["blasphemy"]
     },{
         "id"            : "",
         "morpheme"      : "phag",
