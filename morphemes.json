@@ -6128,7 +6128,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["bacteriophage", "sarcophagus", "hematophagy"]
     },{
         "id"            : "",
         "morpheme"      : "phall",
@@ -6138,7 +6138,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["phallus"]
     },{
         "id"            : "",
         "morpheme"      : "pharyng",
@@ -6148,7 +6148,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["pharynx", "pharyngeal"]
     },{
         "id"            : "",
         "morpheme"      : "pher",
@@ -6167,7 +6167,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["philosophy", "extremophile", "philanthropy"]
     },{
         "id"            : "",
         "morpheme"      : "phleb",
@@ -6177,7 +6177,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["phlebotomy", "phlebitis"]
     },{
         "id"            : "",
         "morpheme"      : "phob",
@@ -7066,7 +7066,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["interrogate"]
+        "examples"      : ["interrogate", "surrogate", "derogatory", "arrogant"]
     },{
         "id"            : "",
         "morpheme"      : "rrh",
@@ -7076,7 +7076,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["hemorrhage"]
+        "examples"      : ["hemorrhage", "diarrhea"]
     },{
         "id"            : "",
         "morpheme"      : "rub",
@@ -7086,7 +7086,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["ruby", "rufous"]
     },{
         "id"            : "",
         "morpheme"      : "s",
