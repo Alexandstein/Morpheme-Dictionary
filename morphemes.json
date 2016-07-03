@@ -7943,7 +7943,7 @@
         "isPrefix"      : false,
         "isSuffix"      : true,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["dreamt", "burnt"]
     },{
         "id"            : "",
         "morpheme"      : "tac",
@@ -7963,7 +7963,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["tactics"]
     },{
         "id"            : "",
         "morpheme"      : "tach",
@@ -7973,7 +7973,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["tachyon", "tachycardia", "tachypneic"]
     },{
         "id"            : "",
         "morpheme"      : "tag",
@@ -7993,7 +7993,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["epitaph"]
+        "examples"      : ["epitaph", "taphonomy"]
     },{
         "id"            : "",
         "morpheme"      : "taur",
@@ -8003,7 +8003,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["centaur", "minotaur", "Taurus"]
     },{
         "id"            : "",
         "morpheme"      : "tel",
@@ -8013,7 +8013,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["telophase"]
     },{
         "id"            : "",
         "morpheme"      : "tele",
@@ -8023,7 +8023,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["television","telemetry"]
+        "examples"      : ["television","telemetry", "telephone"]
     },{
         "id"            : "",
         "morpheme"      : "tempor",
@@ -8053,7 +8053,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["tenacity", "continue", "lieutenant"]
     },{
         "id"            : "",
         "morpheme"      : "tera",
@@ -8062,18 +8062,18 @@
         "origin"        : "Greek",
         "isPrefix"      : true,
         "isSuffix"      : false,
-        "notes"         : "official si prefic for trillion.",
-        "examples"      : []
+        "notes"         : "Official SI prefix for trillion.",
+        "examples"      : ["terabyte"]
     },{
         "id"            : "",
         "morpheme"      : "terat",
         "allomorphs"    : [],
-        "gloss"         : ["monster"],
+        "gloss"         : ["monster", "marvel"],
         "origin"        : "Greek",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["teratogen", "teratoma"]
     },{
         "id"            : "",
         "morpheme"      : "terg",
@@ -8083,7 +8083,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "back as in the Noun.",
-        "examples"      : []
+        "examples"      : ["tergiversate"]
     },{
         "id"            : "",
         "morpheme"      : "tern",
@@ -8113,7 +8113,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["tertiary"]
     },{
         "id"            : "",
         "morpheme"      : "tetra",
@@ -8123,7 +8123,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["tesseract", "tetrapod"]
     },{
         "id"            : "",
         "morpheme"      : "thalass",
@@ -8133,7 +8133,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["Panthalassa"]
     },{
         "id"            : "",
         "morpheme"      : "thanat",
@@ -8143,7 +8143,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["thanatology", "Thanatos"]
     },{
         "id"            : "",
         "morpheme"      : "thaum",
@@ -8203,7 +8203,7 @@
         "isPrefix"      : false,
         "isSuffix"      : true,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["erratic", "acrobatic"]
     },{
         "id"            : "",
         "morpheme"      : "tion",
@@ -8213,7 +8213,7 @@
         "isPrefix"      : false,
         "isSuffix"      : true,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["inspiration", "defenestration"]
     },{
         "id"            : "",
         "morpheme"      : "tive",
@@ -8223,7 +8223,7 @@
         "isPrefix"      : false,
         "isSuffix"      : true,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["adjective", "elective"]
     },{
         "id"            : "",
         "morpheme"      : "tom",
@@ -8233,7 +8233,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["atom"]
+        "examples"      : ["atom", "anatomy"]
     },{
         "id"            : "",
         "morpheme"      : "ton",
@@ -8249,11 +8249,11 @@
         "morpheme"      : "top",
         "allomorphs"    : [],
         "gloss"         : ["place"],
-        "origin"        : "greep",
+        "origin"        : "Greek",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["topology", "utopia", "polytope"]
     },{
         "id"            : "",
         "morpheme"      : "torqu",
