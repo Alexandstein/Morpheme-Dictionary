@@ -4852,7 +4852,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["micron", "microscope"]
     },{
         "id"            : "",
         "morpheme"      : "mille",
@@ -4862,7 +4862,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["millenium"]
     },{
         "id"            : "",
         "morpheme"      : "milli",
@@ -4871,7 +4871,8 @@
         "origin"        : "Latin",
         "isPrefix"      : true,
         "isSuffix"      : false,
-        "notes"         : "official si prefix for thousandth."
+        "notes"         : "Official SI prefix."
+		"examples"      : ["millimeter"]
     },{
         "id"            : "",
         "morpheme"      : "mim",
@@ -4881,7 +4882,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["mimic", "mime"]
     },{
         "id"            : "",
         "morpheme"      : "min",
@@ -4891,7 +4892,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["miniature", "minimum"]
     },{
         "id"            : "",
         "morpheme"      : "mis",
@@ -4901,7 +4902,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["misogyny"]
     },{
         "id"            : "",
         "morpheme"      : "misc",
@@ -4911,7 +4912,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["mix", "miscellaneous"]
     },{
         "id"            : "",
         "morpheme"      : "mitt",
@@ -4931,7 +4932,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["mnemonic", "amnesia", "amnesty"]
     },{
         "id"            : "",
         "morpheme"      : "mo",
@@ -4941,7 +4942,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["motion", "locomotive"]
     },{
         "id"            : "",
         "morpheme"      : "mod",
@@ -4951,7 +4952,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["moderation", "mode"]
     },{
         "id"            : "",
         "morpheme"      : "mon",
@@ -4961,7 +4962,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["monad", "mononucleosis"]
     },{
         "id"            : "",
         "morpheme"      : "mony",
@@ -4971,7 +4972,7 @@
         "isPrefix"      : false,
         "isSuffix"      : true,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["testimony", "ceremony"]
     },{
         "id"            : "",
         "morpheme"      : "morb",
@@ -4981,7 +4982,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["morbid", "moribund"]
     },{
         "id"            : "",
         "morpheme"      : "morph",
@@ -4991,7 +4992,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["morphology", "morpheme", "anthropomorphic", "polymorphic"]
     },{
         "id"            : "",
         "morpheme"      : "mov",
@@ -5001,17 +5002,17 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["movement", "move", "motivation"]
     },{
         "id"            : "",
         "morpheme"      : "muc",
         "allomorphs"    : [],
-        "gloss"         : ["stick"],
+        "gloss"         : ["sticky"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["mucous"]
     },{
         "id"            : "",
         "morpheme"      : "mult",
@@ -5021,7 +5022,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["multiple", "simultaneous"]
     },{
         "id"            : "",
         "morpheme"      : "mun",
@@ -5031,17 +5032,17 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["municipal", "commune"]
     },{
         "id"            : "",
         "morpheme"      : "mus",
         "allomorphs"    : ["mur"],
-        "gloss"         : ["mouse", "muscle"],
+        "gloss"         : ["mouse"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["muscle", "murine"]
     },{
         "id"            : "",
         "morpheme"      : "mut",
@@ -5051,7 +5052,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["mutation", "transmute"]
     },{
         "id"            : "",
         "morpheme"      : "my",
@@ -5071,7 +5072,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["mycology"]
     },{
         "id"            : "",
         "morpheme"      : "myel",
@@ -5081,7 +5082,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["myelin", "myeloma"]
     },{
         "id"            : "",
         "morpheme"      : "myri",
@@ -5091,7 +5092,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["myriad"]
     },{
         "id"            : "",
         "morpheme"      : "myrmec",
@@ -5101,7 +5102,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["myrmecology"]
     },{
         "id"            : "",
         "morpheme"      : "nan",
@@ -5121,6 +5122,7 @@
         "isPrefix"      : true,
         "isSuffix"      : false,
         "notes"         : "official si prefix for billionth."
+        "examples"      : ["nanometer"]
     },{
         "id"            : "",
         "morpheme"      : "nar",
@@ -5130,17 +5132,17 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["nasal"]
     },{
         "id"            : "",
         "morpheme"      : "nat",
         "allomorphs"    : [],
-        "gloss"         : ["swim"],
+        "gloss"         : ["born"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["natal", "natality"]
     },{
         "id"            : "",
         "morpheme"      : "nau",
@@ -5150,7 +5152,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["astronaut", "nautical"]
     },{
         "id"            : "",
         "morpheme"      : "nav",
@@ -5160,7 +5162,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["navy", "navigate"]
     },{
         "id"            : "",
         "morpheme"      : "ne",
@@ -5170,7 +5172,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["neophyte", "neologism"]
     },{
         "id"            : "",
         "morpheme"      : "nec",
@@ -5180,7 +5182,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["noxious", "nectarine"]
     },{
         "id"            : "",
         "morpheme"      : "nec",
@@ -5190,7 +5192,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["necrosis", "necromancy"]
     },{
         "id"            : "",
         "morpheme"      : "nect",
@@ -5200,7 +5202,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["nexus", "connect"]
     },{
         "id"            : "",
         "morpheme"      : "nephr",
@@ -5220,7 +5222,7 @@
         "isPrefix"      : false,
         "isSuffix"      : true,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["thoughtlessness", "goodness"]
     },{
         "id"            : "",
         "morpheme"      : "neur",
@@ -5230,7 +5232,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["neurology"]
     },{
         "id"            : "",
         "morpheme"      : "nigr",
@@ -5250,7 +5252,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["nil", "annihilate", "nihilism"]
     },{
         "id"            : "",
         "morpheme"      : "noct",
@@ -5270,7 +5272,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["node"]
     },{
         "id"            : "",
         "morpheme"      : "nom",
@@ -6079,7 +6081,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "digest as in biological digestion.",
-        "examples"		: []
+        "examples"		: ["peptide", "peptic ulcer"]
     },{
         "id"            : "",
         "morpheme"      : "per",
@@ -6104,12 +6106,12 @@
         "id"            : "",
         "morpheme"      : "pet",
         "allomorphs"    : [],
-        "gloss"         : ["seek", "go to"],
+        "gloss"         : ["seek", "go to", "to rush at"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["impetus"]
     },{
         "id"            : "",
         "morpheme"      : "petr",
@@ -6169,6 +6171,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "bear as in 'to bear'."
+		"examples"      : ["pheromone", "metaphor", "phosphorus"]
     },{
         "id"            : "",
         "morpheme"      : "phil",
@@ -6258,7 +6261,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["phylactery"]
+        "examples"      : ["phylactery", "anaphylaxis"]
     },{
         "id"            : "",
         "morpheme"      : "phyll",
@@ -6278,7 +6281,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["physics"]
+        "examples"      : ["physics", "metaphysical"]
     },{
         "id"            : "",
         "morpheme"      : "phyt",
@@ -6528,7 +6531,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["position"]
+        "examples"      : ["position", "pose"]
     },{
         "id"            : "",
         "morpheme"      : "por",
@@ -6588,7 +6591,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["practical", "pragmatic"]
+        "examples"      : ["practical", "pragmatic", "pragma"]
     },{
         "id"            : "",
         "morpheme"      : "prae",
@@ -7550,12 +7553,12 @@
         "id"            : "",
         "morpheme"      : "sim",
         "allomorphs"    : [],
-        "gloss"         : ["one"],
+        "gloss"         : ["one", "as one"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["similar", "simultaneous", "simulation"]
     },{
         "id"            : "",
         "morpheme"      : "sis",
@@ -7755,7 +7758,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "scale as in the scales of a reptile.",
-        "examples"      : []
+        "examples"      : ["squamata", "squamous"]
     },{
         "id"            : "",
         "morpheme"      : "sta",
@@ -7765,7 +7768,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["state", "station"]
     },{
         "id"            : "",
         "morpheme"      : "steat",
@@ -7835,7 +7838,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["distill"]
+        "examples"      : ["distill", "instill"]
     },{
         "id"            : "",
         "morpheme"      : "stom",
@@ -7971,7 +7974,7 @@
         "morpheme"      : "tach",
         "allomorphs"    : ["tachy"],
         "gloss"         : ["fast"],
-        "origin"        : "grek",
+        "origin"        : "Greek",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
@@ -8155,7 +8158,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["thaumaturgy"]
     },{
         "id"            : "",
         "morpheme"      : "the",
@@ -8175,7 +8178,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["theology","theocracy"]
+        "examples"      : ["theology","atheist"]
     },{
         "id"            : "",
         "morpheme"      : "therm",
@@ -8185,7 +8188,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["thermal","thermometer"]
+        "examples"      : ["thermal","thermometer", "endotherm"]
     },{
         "id"            : "",
         "morpheme"      : "thromb",
@@ -8390,12 +8393,12 @@
         "id"            : "",
         "morpheme"      : "trud",
         "allomorphs"    : ["trus"],
-        "gloss"         : ["trust"],
+        "gloss"         : ["thrust", "push"],
         "origin"        : "Latin",
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["trust"]
+        "examples"      : ["intrude", "intrusive"]
     },{
         "id"            : "",
         "morpheme"      : "tuber",
