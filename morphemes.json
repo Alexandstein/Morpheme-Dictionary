@@ -2167,7 +2167,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["dulcimer"]
+        "examples"      : ["dulcimer", "dulce de leche"]
     },
     {
         "id"            : "",
@@ -2200,7 +2200,7 @@
         "isPrefix"      : true,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : ["dysentery", "dyslexia"]
+        "examples"      : ["dysentery", "dyslexia", "dysphoria"]
     },
     {
         "id"            : "",
@@ -8528,7 +8528,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["anuran"]
     },{
         "id"            : "",
         "morpheme"      : "uran",
@@ -8538,7 +8538,7 @@
         "isPrefix"      : false,
         "isSuffix"      : false,
         "notes"         : "",
-        "examples"      : []
+        "examples"      : ["Uranus"]
     },{
         "id"            : "",
         "morpheme"      : "urb",
@@ -8558,7 +8558,7 @@
         "isPrefix"      : false,
         "isSuffix"      : true,
         "notes"         : "masculine singular",
-        "examples"      : ["fetus", "incubus"]
+        "examples"      : ["fetus", "incubus", "alumnus"]
 
     },{
         "id"            : "",
